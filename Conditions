@@ -1,0 +1,12 @@
+Conditions:
+
+To check one condition: if specify condition :
+					 (code to be executed)
+				 else :
+					 (code to be executed)
+To check more than one: if specify condition :
+					(code to be executed)
+				  elif specify second condition :
+					(code to be executed)
+				  else :
+					(code to be executed)
